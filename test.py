@@ -5,3 +5,7 @@ print("hi Misha")
 
 
 # git clone is only working in the start 
+# git pull - is used for uploding git hub files
+# git branch - showing us in what branch we are at
+# git branch ___ - adding a new branch
+# git chechout (name of the branch) - switching to the another branch
